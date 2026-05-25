@@ -1,7 +1,3 @@
-Seu README já está bom, mas está muito “cru” e com cara de documentação interna. Vou te devolver uma versão mais profissional, clara e pronta pra GitHub (organizada, objetiva e com fluxo de leitura melhor).
-
----
-
 # 📌 Client Management & Pipefy Integration
 
 API backend desenvolvida em **Python + FastAPI** para gerenciamento de clientes e simulação de integração com o **Pipefy via GraphQL**.
@@ -201,13 +197,5 @@ Este projeto foi construído com foco em:
 * arquitetura escalável
 * simulação de cenários reais de produção
 
----
-
-Se quiser, posso evoluir isso ainda mais pra você em nível “empresa de verdade”, tipo:
-
-* badges (build, coverage, python version)
-* docker section mais profissional
-* diagrama de arquitetura (imagem)
-* seção de “decision log” (isso impressiona em teste técnico)
 
 Só fala.
